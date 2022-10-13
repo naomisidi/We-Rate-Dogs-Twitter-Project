@@ -4,9 +4,9 @@ The WeRateDogs Twitter gathers data from a local file, programmatically from Uda
 ## Introduction
 This project focused on the wrangling part of the Data Analysis process. The goal was to use WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog that has over 9 million followers and has received international media coverage. Although the ratings have a denominator of 10, the numerator is almost always greater than 10 for instance 12/10, 13/10, and so on. This forms part of WeRateDogs unique and often humorous dog rating system.
 
-##Summary of Findings
+## Summary of Findings
 
-###Quality Issues
+### Quality Issues
 * Validity: Some tweet_ids represent retweets and not original tweets
 * Some tweet_ids represent replies and not original tweets
 * Name column in enhanced dataframe contains inaccurate values (e.g. a, none)
